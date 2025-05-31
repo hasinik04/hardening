@@ -2,7 +2,7 @@ image::logo/horizontal.png[Ubuntu Hardening]
 = Hardening Ubuntu. Systemd edition.
 
 :icons: font
-
+ 
 A quick way to make a Ubuntu server a bit more secure.
 
 Use the newly installed and configured system as a reference,
